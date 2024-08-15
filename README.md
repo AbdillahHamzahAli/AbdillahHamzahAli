@@ -1,7 +1,7 @@
 <!-- intro -->
 # 👋 Hi, I'm Hamzah Ali!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Science at [the Institut Teknologi Sepuluh Nopember](https://youtu.be/SuUWHrE_aBA?si=u4-SXpKY68Y6paFe), Indonesia<br/>
+👩🏻‍🎓 Studying Computer Science at [the Institut Teknologi Sepuluh Nopember](https://youtu.be/SuUWHrE_aBA?si=u4-SXpKY68Y6paFe), Indonesia<br/>
 🌱 I am creating a blog to share my knowledge<br/>
 💬 Currently learning about AI and Machine Learning<br/>
 📫 How to reach me **abdillahhamzahali@gmail.com**<br/>
