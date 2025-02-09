@@ -27,4 +27,5 @@
 # 📩 Connect With Me
 <p align="left">
 <a href="https://instagram.com/hamzah.tsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzah.tsx" height="25" width="35" /></a>
+<a href="https://x.com/Hamzah81137817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hamzah81137817" height="25" width="35" /></a>
 </p
