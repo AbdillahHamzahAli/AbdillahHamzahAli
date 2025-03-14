@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Hamzah+Ali!)](https://git.io/typing-svg) </br>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studying Computer Science at [the Institut Teknologi Sepuluh Nopember](https://youtu.be/SuUWHrE_aBA?si=u4-SXpKY68Y6paFe), Indonesia<br/>
+👩🏻‍🎓 Studying Informatics at [the Institut Teknologi Sepuluh Nopember](https://youtu.be/SuUWHrE_aBA?si=u4-SXpKY68Y6paFe), Indonesia<br/>
 🌱 I am creating a blog to share my knowledge<br/>
-💬 Currently learning about AI and Machine Learning<br/>
+💬 Currently learning about Backend and Machine Learning<br/>
 📫 How to reach me **abdillahhamzahali@gmail.com**<br/>
 ⚡ Fun fact **I have ants on my laptop**<br/>
 
